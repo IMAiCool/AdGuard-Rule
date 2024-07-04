@@ -13,6 +13,7 @@ application:
     #远程规则
     remote:
       - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
+      - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt' #白名单
       - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
       - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
       - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt'
