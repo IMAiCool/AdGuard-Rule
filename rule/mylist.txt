@@ -136,3 +136,12 @@
 @@||wgo.mmstat.com^$important
 @@||app-monitor.ele.me^$important
 @@||hdslb.com
+@@||app.bilibili.com^
+@@||pgdt.gtimg.cn^
+@@||vv.video.qq.com^
+@@||btrace.qq.com^
+@@||v.gdt.qq.com^
+||update.miui.com^
+@@||api.sec.miui.com^
+@@||tracking.miui.com^
+@@||get.sogou.com^
